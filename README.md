@@ -1,6 +1,6 @@
 Hi there, I'm Mohamed Ahmed 👋
 👨‍🎓 I'm an Electrical Engineering student, and I'm constantly learning and exploring new technologies to improve my skills.
-
+<!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px> -->
 👨‍💻 Ask me about my experience with C++, C, Python, and HTML, or anything related to programming.
 
 ⚡ Fun Fact: I'm a big fan of puzzles and brain teasers, and I enjoy solving them in my free time.
